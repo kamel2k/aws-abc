@@ -373,16 +373,6 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A
     </details>
 
-37. You have AWS Basic support, and you have discovered that some AWS resources are being used maliciously, and those resources could potentially compromise your data. What should you do?
-    - A. Contact the AWS Customer Service team.
-    - B. Contact the AWS Abuse team.
-    - C. Contact the AWS Concierge team.
-    - D. Contact the AWS Security team.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
 38. Select TWO examples of the AWS shared controls.
     - A. Patch Management.
     - B. IAM Management.
